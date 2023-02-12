@@ -29,9 +29,13 @@
     border-collapse: collapse;
 }
 
-.table-col-width {
+.table-col-width-33 {
     width: 33.33%;
 }
+
+.table-col-width-38 {
+    width: 38%;
+} 
 
 .text-left-aligned {
     text-align: left;
