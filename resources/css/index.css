@@ -3,6 +3,11 @@
     font-size: medium;   
 }
 
+.text-head-width {
+    width: 80%;
+    text-align: left;
+}
+
 .center-content {
     width: 66.67%;
     margin: auto;
@@ -12,8 +17,8 @@
 .image-style {
     max-height: 150px;
     max-width: 200px;
-    width: 120px;
-    height: 120px;
+    width: 130px;
+    height: 130px;
     border-radius: 50%;
     float: right;
 }
