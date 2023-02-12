@@ -1,0 +1,1 @@
+This page contains my secret website. If you found it, please let me know! This project is still ongoing, as I am not satisfied with the design of the page. Unfortunately I am not a web developer, so this may take some time.
